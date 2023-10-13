@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Introduction_Day_1_20_09_2023</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ADD INTERFACE.cs" />
+    <Compile Remove="Calss 5 Excercise array 1.cs" />
+    <Compile Remove="Claas 4 Home work.cs" />
+    <Compile Remove="Class 3 Switch ExcerciseStrings.cs" />
+    <Compile Remove="Class 4 Excercise.cs" />
+    <Compile Remove="Class 6 Excercise.cs" />
+    <Compile Remove="Class 6.cs" />
+    <Compile Remove="Class HEVELS.cs" />
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Class2.cs" />
+    <Compile Remove="Class3-ExcerciseNumbers.cs" />
+    <Compile Remove="Class3.cs" />
+    <Compile Remove="ClassFlat.cs" />
+    <Compile Remove="COLLECTIONSLIST.cs" />
+    <Compile Remove="EXCERCICE 1 04102023.cs" />
+    <Compile Remove="FileHandling.cs" />
+    <Compile Remove="Interface1.cs" />
+    <Compile Remove="multi dimensional array.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="Rectangle.cs" />
+    <Compile Remove="SALES.cs" />
+    <Compile Remove="Single Array Inputfrmuser.cs" />
+    <Compile Remove="SubtractInterface.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ADD INTERFACE.cs" />
+    <None Include="Calss 5 Excercise array 1.cs" />
+    <None Include="Claas 4 Home work.cs" />
+    <None Include="Class 3 Switch ExcerciseStrings.cs" />
+    <None Include="Class 4 Excercise.cs" />
+    <None Include="Class 6 Excercise.cs" />
+    <None Include="Class 6.cs" />
+    <None Include="Class HEVELS.cs" />
+    <None Include="Class1.cs" />
+    <None Include="Class2.cs" />
+    <None Include="Class3-ExcerciseNumbers.cs" />
+    <None Include="Class3.cs" />
+    <None Include="ClassFlat.cs" />
+    <None Include="COLLECTIONSLIST.cs" />
+    <None Include="EXCERCICE 1 04102023.cs" />
+    <None Include="FileHandling.cs" />
+    <None Include="Interface1.cs" />
+    <None Include="multi dimensional array.cs" />
+    <None Include="SALES.cs" />
+    <None Include="Single Array Inputfrmuser.cs" />
+    <None Include="SubtractInterface.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Rectangle.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="FILE PATH\" />
+  </ItemGroup>
+
+</Project>
