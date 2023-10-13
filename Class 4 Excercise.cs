@@ -16,7 +16,9 @@ namespace Introduction_Day_1_20_09_2023
             Console.WriteLine("The string entered is " + Mystring);
             int len = Mystring.Length;
             Console.WriteLine("The string length is " + len);
-            
+
+            Console.WriteLine("Made change");
+
             for (int i=0; i<len;i++)
 
            {
